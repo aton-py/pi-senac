@@ -9,7 +9,7 @@ PI - ADS Next provides a way to quickly get up and running with a fully configur
 1. Clone the project
 
 ```sh
-$ git clone https://github.com/jamstack-cms/jamstack-ecommerce.git
+$ git clone https://github.com/aton-py/pti-senac.git
 ```
 
 2. Install the dependencies:
