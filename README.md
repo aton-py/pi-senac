@@ -2,6 +2,7 @@
 
 PI - ADS Next provides a way to quickly get up and running with a fully configurable ECommerce site using Next.js.
 
+![Home](example-images/1.png)
 
 ### Getting started
 
